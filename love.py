@@ -5,7 +5,7 @@ turtle.pensize(3)
 
 a = turtle.Turtle()
 a.penup()
-a.goto(-200,60)
+a.goto(-250,60)
 a.pendown()
 a.color("red")
 style = ('courier',30,'italic')
